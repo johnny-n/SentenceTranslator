@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SentenceTranslator</string>
+    <string name="translate_button">Translate sentence here</string>
+    <string name="translation_text_view">Data connection required. Translation make take a few seconds.</string>
+    <string name="enter_sentence_hint">Enter sentence</string>
+    <string name="title">Sentence Translator</string>
+</resources>
